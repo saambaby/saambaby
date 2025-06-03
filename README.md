@@ -2,7 +2,6 @@
 
 I’m a Bitcoin developer focused on building non-custodial Lightning solutions using Rust and Flutter. My mission is to empower users to manage their own funds, run their own nodes, and connect any wallet they choose — without relying on custodians or intermediaries.
 
----
 
 ## 🔧 What I’m Working On
 
@@ -12,8 +11,6 @@ I’m a Bitcoin developer focused on building non-custodial Lightning solutions 
 - **Exploring Nostr & Bots**  
   Building bots and automation tools on the Nostr protocol, supporting decentralized identity and secure messaging for Bitcoin users.  
 
----
-
 ## 🗂️ Areas of Expertise
 
 - 🪙 Bitcoin, Lightning Network, ARK  
@@ -22,20 +19,12 @@ I’m a Bitcoin developer focused on building non-custodial Lightning solutions 
 - ⚡️ Nostr protocol & decentralized identity  
 - 🤖 Automation and bots for Bitcoin apps  
 
----
-
-## 🚀 Mission & Philosophy
-
-I believe that **non-custodial solutions** are essential for Bitcoin’s long-term success. My work focuses on giving users the tools they need to stay sovereign, secure, and in full control of their funds.  
-
----
 
 ## 📬 Contact
 
 - **Nostr:** npub19da6z9yz793zq2yr42np2vn36hdtvuj2g3lzsm7c0rzks2zyeahs7mvy48
 - **Email:** saam.baby@outlook.com  
 
----
 
 ## 🔗 Let’s Connect
 
