@@ -34,7 +34,6 @@ I believe that **non-custodial solutions** are essential for Bitcoin’s long-te
 
 - **Nostr:** npub19da6z9yz793zq2yr42np2vn36hdtvuj2g3lzsm7c0rzks2zyeahs7mvy48
 - **Email:** saam.baby@outlook.com  
-- **GitHub:** [saambaby](https://github.com/saambaby)  
 
 ---
 
