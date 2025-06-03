@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm saam — Bitcoin Developer
 
-<!--
-**saambaby/saambaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Bitcoin developer focused on building non-custodial Lightning solutions using Rust and Flutter. My mission is to empower users to manage their own funds, run their own nodes, and connect any wallet they choose — without relying on custodians or intermediaries.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I’m Working On
+
+- **Lightning Node Manager (Rust + Flutter)**  
+  A cross-platform desktop and mobile app (Windows, Mac, Linux, iOS, Android) for managing Lightning nodes and channels in a fully non-custodial way. Inspired by Lightning Terminal (LND), but with the user in complete control of their funds.  
+
+- **Exploring Nostr & Bots**  
+  Building bots and automation tools on the Nostr protocol, supporting decentralized identity and secure messaging for Bitcoin users.  
+
+---
+
+## 🗂️ Areas of Expertise
+
+- 🪙 Bitcoin, Lightning Network, ARK  
+- 🦀 Rust backend development  
+- 📱 Cross-platform app development (Flutter + Rust)  
+- ⚡️ Nostr protocol & decentralized identity  
+- 🤖 Automation and bots for Bitcoin apps  
+
+---
+
+## 🚀 Mission & Philosophy
+
+I believe that **non-custodial solutions** are essential for Bitcoin’s long-term success. My work focuses on giving users the tools they need to stay sovereign, secure, and in full control of their funds.  
+
+---
+
+## 📬 Contact
+
+- **Nostr:** npub19da6z9yz793zq2yr42np2vn36hdtvuj2g3lzsm7c0rzks2zyeahs7mvy48
+- **Email:** saam.baby@outlook.com  
+- **GitHub:** [saambaby](https://github.com/saambaby)  
+
+---
+
+## 🔗 Let’s Connect
+
+Open to collaborating on Lightning, ARK, Nostr, and related Bitcoin projects. Feel free to open issues or pull requests on my repos, or reach out directly via Nostr or email.  
