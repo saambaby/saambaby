@@ -8,15 +8,12 @@ I’m a Bitcoin developer focused on building non-custodial Lightning solutions 
 - **Lightning Node Manager (Rust + Flutter)**  
   A cross-platform desktop and mobile app (Windows, Mac, Linux, iOS, Android) for managing Lightning nodes and channels in a fully non-custodial way. Inspired by Lightning Terminal (LND), but with the user in complete control of their funds.  
 
-- **Exploring Nostr & Bots**  
-  Building bots and automation tools on the Nostr protocol, supporting decentralized identity and secure messaging for Bitcoin users.  
 
 ## 🗂️ Areas of Expertise
 
 - 🪙 Bitcoin, Lightning Network, ARK  
 - 🦀 Rust backend development  
-- 📱 Cross-platform app development (Flutter + Rust)  
-- ⚡️ Nostr protocol & decentralized identity  
+- 📱 Cross-platform app development 
 - 🤖 Automation and bots for Bitcoin apps  
 
 
