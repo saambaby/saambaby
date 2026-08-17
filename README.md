@@ -1,7 +1,6 @@
 # 👋 Hi, I'm saam — Bitcoin Developer
 
-I’m a Bitcoin developer focused on building non-custodial Lightning solutions using Rust and Flutter. My mission is to empower users to manage their own funds, run their own nodes, and connect any wallet they choose — without relying on custodians or intermediaries.
-
+I’m a Bitcoin developer focused on building non-custodial Lightning solutions using Rust and Flutter.
 
 ## 🔧 What I’m Working On
 
@@ -11,15 +10,13 @@ I’m a Bitcoin developer focused on building non-custodial Lightning solutions 
 
 ## 🗂️ Areas of Expertise
 
-- 🪙 Bitcoin, Lightning Network, ARK  
+- 🪙 Bitcoin, Lightning Network
 - 🦀 Rust backend development  
 - 📱 Cross-platform app development 
 - 🤖 Automation and bots for Bitcoin apps  
 
 
 ## 📬 Contact
-
-- **Nostr:** npub19da6z9yz793zq2yr42np2vn36hdtvuj2g3lzsm7c0rzks2zyeahs7mvy48
 - **Email:** saam.baby@outlook.com  
 
 
